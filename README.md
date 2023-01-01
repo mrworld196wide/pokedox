@@ -1,4 +1,3 @@
-README.md
 Creating a pokemon application (a “pokedex”) that displays an interface that looks like this:
 
 Part 1: Consist of Building Components To create the pokedex, I used 3 components:
